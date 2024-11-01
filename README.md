@@ -190,7 +190,6 @@ spec:
     targetPort: 5000  
   selector:
     app: ecommerce 
-	
 ```
 
 To deploy the application, run this command : 
